@@ -4,8 +4,6 @@
 
 **`hobby dev` &middot; `bug fixer` &middot; `game builder` &middot; `AI tinkerer`**
 
-Belgrade 📍 · AI operations supervisor by day, building games and tools by night.
-
 <br>
 
 <code>01100011 01101000 01100001 01101001 01110110 01100101 01110100 01110100 01100001</code>
@@ -19,12 +17,10 @@ Belgrade 📍 · AI operations supervisor by day, building games and tools by ni
 ```json
 {
   "user": "chaivetta",
-  "base": "Belgrade",
-  "day_job": "AI operations supervisor",
-  "night_job": "games, tools & web experiments",
+  "builds": "games, tools & web experiments",
   "focus": "fixing problems others gave up on",
   "status": "active 🟢",
-  "languages": ["Turkish", "English"]
+  "mode": "no-nonsense"
 }
 ```
 
