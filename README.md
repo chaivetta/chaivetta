@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pannini,_Giovanni_Paolo_-_Picture_Gallery_with_Views_of_Modern_Rome_-_1757.jpg?width=1400" width="100%" alt="Giovanni Paolo Panini, Picture Gallery with Views of Modern Rome, 1757"/>
   <img src="./assets/header.svg" width="100%" alt="The Museum of Small Projects — chaivetta, hobby developer"/>
 </p>
 
@@ -64,4 +65,4 @@ for no client and no deadline — only for the pleasure of making it.
   <img src="./assets/footer.svg" width="100%" alt="Please do not touch the exhibits — but you are welcome to fork them."/>
 </p>
 
-<p align="center"><sub><i>Paintings: public domain, via Wikimedia Commons — <a href="https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg">Gérôme</a> · <a href="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion_high_res.jpg">Muybridge</a> · <a href="https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg">Michelangelo</a> · <a href="https://commons.wikimedia.org/wiki/File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg">Leonardo</a></i></sub></p>
+<p align="center"><sub><i>Paintings: public domain, via Wikimedia Commons — <a href="https://commons.wikimedia.org/wiki/File:Pannini,_Giovanni_Paolo_-_Picture_Gallery_with_Views_of_Modern_Rome_-_1757.jpg">Panini</a> · <a href="https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg">Gérôme</a> · <a href="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion_high_res.jpg">Muybridge</a> · <a href="https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg">Michelangelo</a> · <a href="https://commons.wikimedia.org/wiki/File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg">Leonardo</a></i></sub></p>
