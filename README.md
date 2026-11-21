@@ -60,8 +60,32 @@ for no client and no deadline — only for the pleasure of making it.
 
 <br>
 
+<p align="center"><sub>GALLERY IV &nbsp;·&nbsp; SMALL INSTRUMENTS &amp; COMPANIONS</sub></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/chaivetta/habit-streak"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg?width=900" width="100%" alt="Exhibit VII — The Long Walk (Habit Streak)"/></a>
+<a href="https://github.com/chaivetta/habit-streak"><img src="./assets/exhibit-habit-streak.svg" width="100%" alt="Exhibit VII — The Long Walk (Habit Streak)"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/chaivetta/focus-timer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer_Melancholia_I.jpg?width=900" width="100%" alt="Exhibit VIII — Melencolia, with Hourglass (Focus Timer)"/></a>
+<a href="https://github.com/chaivetta/focus-timer"><img src="./assets/exhibit-focus-timer.svg" width="100%" alt="Exhibit VIII — Melencolia, with Hourglass (Focus Timer)"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/chaivetta/desktop-cat"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Steinlein-chatnoir.jpg?width=900" width="100%" alt="Exhibit IX — Tournée du Chat de Bureau (Desktop Cat)"/></a>
+<a href="https://github.com/chaivetta/desktop-cat"><img src="./assets/exhibit-desktop-cat.svg" width="100%" alt="Exhibit IX — Tournée du Chat de Bureau (Desktop Cat)"/></a>
+</td>
+<td width="50%" valign="middle" align="center"><i>This wall is left empty on purpose.<br>The next piece is still in the workshop.</i></td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Please do not touch the exhibits — but you are welcome to fork them."/>
 </p>
 
-<p align="center"><sub><i>Paintings: public domain, via Wikimedia Commons — <a href="https://commons.wikimedia.org/wiki/File:Pannini,_Giovanni_Paolo_-_Picture_Gallery_with_Views_of_Modern_Rome_-_1757.jpg">Panini</a> · <a href="https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg">Gérôme</a> · <a href="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion_high_res.jpg">Muybridge</a> · <a href="https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg">Michelangelo</a> · <a href="https://commons.wikimedia.org/wiki/File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg">Leonardo</a></i></sub></p>
+<p align="center"><sub><i>Paintings: public domain, via Wikimedia Commons — <a href="https://commons.wikimedia.org/wiki/File:Pannini,_Giovanni_Paolo_-_Picture_Gallery_with_Views_of_Modern_Rome_-_1757.jpg">Panini</a> · <a href="https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg">Gérôme</a> · <a href="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion_high_res.jpg">Muybridge</a> · <a href="https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg">Michelangelo</a> · <a href="https://commons.wikimedia.org/wiki/File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg">Van Gogh</a> · <a href="https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg">Leonardo</a> · <a href="https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg">Friedrich</a> · <a href="https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Melancholia_I.jpg">Dürer</a> · <a href="https://commons.wikimedia.org/wiki/File:Steinlein-chatnoir.jpg">Steinlen</a></i></sub></p>
