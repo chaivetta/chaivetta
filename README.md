@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pannini,_Giovanni_Paolo_-_Picture_Gallery_with_Views_of_Modern_Rome_-_1757.jpg?width=1400" width="100%" alt="Giovanni Paolo Panini, Picture Gallery with Views of Modern Rome, 1757"/>
-  <img src="./assets/header.svg" width="100%" alt="The Museum of Small Projects — chaivetta, hobby developer"/>
+  <img src="./assets/header.jpg" width="100%" alt="The Museum of Small Projects — chaivetta, hobby developer. After G. P. Panini, Picture Gallery with Views of Modern Rome, 1757"/>
 </p>
 
 <p align="center"><i>
