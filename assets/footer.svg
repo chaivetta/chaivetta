@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+<rect width="900" height="110" fill="#f4efe6"/>
+<line x1="60" y1="30" x2="840" y2="30" stroke="#b08d57" stroke-width=".6"/>
+<text x="450" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="14" font-style="italic" fill="#1f1b16">Please do not touch the exhibits — but you are welcome to fork them.</text>
+<text x="450" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="10" letter-spacing="5" fill="#6b6258">OPEN DAILY · ADMISSION FREE</text>
+</svg>

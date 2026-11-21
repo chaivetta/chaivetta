@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250">
+<rect width="420" height="250" fill="#f4efe6"/>
+<rect x="6" y="6" width="408" height="238" fill="none" stroke="#b08d57" stroke-width=".8"/>
+<text x="34" y="44" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="11" letter-spacing="4" fill="#9c3d2e">EXHIBIT VI</text>
+<text x="386" y="44" text-anchor="end" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="10" letter-spacing="2" fill="#6b6258">INV. CHV-006</text>
+<text x="34" y="82" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="22" fill="#1f1b16">KairaShot</text>
+<text x="34" y="106" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="12" fill="#6b6258">chaivetta · 2026</text>
+<text x="34" y="124" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="12" font-style="italic" fill="#6b6258">Work in progress</text>
+<line x1="34" y1="142" x2="120" y2="142" stroke="#9c3d2e" stroke-width=".8"/>
+<text x="34" y="170" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="13" font-style="italic" fill="#1f1b16">The canvas is primed.</text><text x="34" y="189" font-family="Georgia, 'Times New Roman', 'Palatino Linotype', serif" font-size="13" font-style="italic" fill="#1f1b16">Brushes are being chosen.</text>
+</svg>
